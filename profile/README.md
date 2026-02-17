@@ -16,21 +16,11 @@ Most widely-used tools today solve symptoms while adding complexity. We focus on
 *   **Scarcity is a feature.** Constraints breed better solutions than abundance.
 
 
-## Our Stack
-
-We build on proven foundations.
-
-*   **Backend:** Python, Django, Django Rest Framework
-*   **Frontend:** TypeScript
-*   **Data:** PostgreSQL
-*   **Architecture:** API-first, modular, distinct
-
-
 ## Active Public Systems
 
 Our work is not an experiment. These are the tools we use to run our own organization.
 
-*   **[SecretsCLI](#)**: An internal operating system for onboarding, project flow, and delivery intelligence.
+*   **[SecretsCLI](https://github.com/The-17/SecretsCLI)**: An internal operating system for onboarding, project flow, and delivery intelligence.
 
 
 ## For Developers
