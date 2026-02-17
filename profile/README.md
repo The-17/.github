@@ -20,8 +20,8 @@ Most widely-used tools today solve symptoms while adding complexity. We focus on
 
 Our work is not an experiment. These are the tools we use to run our own organization.
 
-*   **[SecretsCLI](https://github.com/The-17/SecretsCLI)**: An internal operating system for onboarding, project flow, and delivery intelligence.
-
+*   **[SecretsCLI](https://github.com/The-17/SecretsCLI)**: A simple, secure way to manage environment secrets across projects without leaking them into your workflow  
+  → Built for developers who want less ceremony and fewer mistakes
 
 ## For Developers
 
