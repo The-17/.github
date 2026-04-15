@@ -1,7 +1,6 @@
 # The Seventeen
 
 We build practical systems that make living and building easier.
-
 We prioritize utility over attention. If a tool doesn't remove friction or reduce decision fatigue, we don't build it.
 
 
@@ -20,8 +19,7 @@ Most widely-used tools today solve symptoms while adding complexity. We focus on
 
 Our work is not an experiment. These are the tools we use to run our own organization.
 
-*   **[SecretsCLI](https://github.com/The-17/SecretsCLI)**: A simple, secure way to manage environment secrets across projects without leaking them into your workflow  
-  → Built for developers who want less ceremony and fewer mistakes
+*   **[AgentSecrets](https://github.com/The-17/agentsecrets)**: Zero-knowledge secrets infrastructure for AI systems. Agents operate credentials without ever seing the values.  
 
 ## For Developers
 
@@ -34,7 +32,7 @@ We value attention from engineers who care about craft.
 
 ### Start Building
 The best way to understand our systems is to use them. 
-clone a repository, read the `CONTRIBUTING.md`, and run the test suite. If the setup isn't simple and reliable, that's a bug—please report it.
+clone a repository, read the `CONTRIBUTING.md`, and run the test suite. If the setup isn't simple and reliable, that's a bug, please report it.
 
 ### Collaborate
 We welcome contributions that align with our values.
