@@ -16,6 +16,7 @@ Our work is not an experiment. These are the tools we use to run our own organiz
 
 *   **[AgentSecrets](https://github.com/The-17/agentsecrets)**: Zero-knowledge secrets infrastructure for AI systems. Agents operate credentials without ever seeing the values.
 *   **[keychain-auth](https://github.com/The-17/keychain-auth)**: OS keychain security hardening. Closes the gap the OS leaves open — any process running as you can read your keychain. keychain-auth enforces verified process identity before any credential is accessed, so your keychain is only as accessible as you explicitly allow.
+*   *   **[SEC](https://github.com/The-17/sec)**: Capability boundaries for autonomous systems. Agents declare intent before execution; runtimes enforce those boundaries cryptographically.
 
 ## For Developers
 We open our work because clarity compounds when it is shared.
