@@ -1,6 +1,6 @@
 # The Seventeen Engineering
 
-The engineering arm of [The Seventeen](https://theseventeen.co). We build tools that make living and building easier — no bloat, no noise.
+The engineering arm of [The Seventeen](https://theseventeen.co). We build tools that make living and building easier.
 
 ## Philosophy
 
