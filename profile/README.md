@@ -1,21 +1,14 @@
-# The Seventeen
+# The Seventeen Engineering
 
-We build practical systems that make living and building easier.
-We prioritize utility over attention. If a tool doesn't remove friction or reduce decision fatigue, we don't build it.
+The engineering arm of [The Seventeen](https://theseventeen.co). We build tools that make living and building easier — no bloat, no noise.
 
-## Engineering Philosophy
+## Philosophy
 
-Software should be boring.
-
-Most widely-used tools today solve symptoms while adding complexity. We focus on causes. We design systems that are readable, maintainable, and built to outlive the teams that created them.
-
-- **Clarity over cleverness.** We prefer code that is easy to read over code that is fast to write.
-- **Dependencies are liability.** We add them only when necessary.
+- **Clarity over cleverness.** Easy to read beats fast to write.
+- **Dependencies are liability.** Add them only when necessary.
 - **Scarcity is a feature.** Constraints breed better solutions than abundance.
 
-## Active Public Systems
-
-These are the tools we use to run our own organization
+## Systems
 
 - **[AgentSecrets](https://github.com/The-17/agentsecrets)**: Zero-knowledge secrets infrastructure for AI systems. Agents operate credentials without ever seeing the values.
 
@@ -25,8 +18,6 @@ These are the tools we use to run our own organization
 
 - **[pr-reviewer](https://github.com/The-17/pr-reviewer)**: Autonomous Python PR reviewer. Production-grade agentic system and the live showcase for the AgentSecrets security stack — progressing from unsecured baseline through credential protection (AgentSecrets), cryptographic intent enforcement (SEC), and behavioral abuse containment (CAD).
 
-## Where to Find Us
+## Find Us
 
-The work happens on [GitHub](https://github.com/The-17).
-We document how these systems are designed and built at [engineering.theseventeen.co](https://engineering.theseventeen.co), written for engineers who want to understand the reasoning, not just the result.
-Everything else is at [theseventeen.co](https://theseventeen.co).
+Code lives here on GitHub. How we build it lives at [engineering.theseventeen.co](https://engineering.theseventeen.co).
