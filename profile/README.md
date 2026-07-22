@@ -14,7 +14,7 @@ The engineering arm of [The Seventeen](https://theseventeen.co). We build tools 
 
 - **[keychain-auth](https://github.com/The-17/keychain-auth)**: OS keychain security hardening. Closes the gap the OS leaves open — any process running as you can read your keychain. keychain-auth enforces PID, binary hash and developer signing verification before any credential is accessed.
 
-- **[Lore](https://github.com/The-17/Lore)**: Self-hosted, collaborative memory and artifact vault for AI agents and humans. Features scoped sandboxing, automatic version diff reviews, wiki note-linking, and a native Model Context Protocol (MCP) server.
+- **[Lore](https://github.com/The-17/Lore)**: The Artifact Plane for humans and AI agents. A self-hosted system for storing, versioning, governing, and relating AI-generated artifacts with provenance, review workflows, and native MCP integration.
 
 ## Find Us
 
